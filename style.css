@@ -15,27 +15,47 @@ label{
 }
 form input#name {
     margin-left: 60px;
+    border-top-width: 2px;
+    border-left-width: 2px;
 }
 form input#dateofbirth {
     margin-left: 58px;
+    border-top-width: 2px;
+    border-left-width: 2px;
 }
 form input#gender {
     margin-left: 63px;
+    border-top-width: 2px;
+    border-left-width: 2px;
 }
 form textarea#address {
     margin-left: 76px;
+    border-top-width: 2px;
+    border-left-width: 2px;
 }
 form select#class {
     margin-left: 93px;
+    border-top-width: 2px;
+    border-left-width: 2px;
 }
 form input#email {
     margin-left: 82px;
+    border-top-width: 2px;
+    border-left-width: 2px;
 }
 form input#phone {
     margin-left: 54px;
+    border-top-width: 2px;
+    border-left-width: 2px;
 }
 form input#button {
     margin-left: 120px;
+    border-top-width: 2px;
+    border-left-width: 2px;
+}
+form input#button2 {
+    border-top-width: 2px;
+    border-left-width: 2px;
 }
 #form {
     width: 480px;
