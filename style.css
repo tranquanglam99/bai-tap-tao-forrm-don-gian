@@ -2,68 +2,104 @@
 
 body{
     font-family: Helvetica,;
-    font-size: 15px;
-    color: blue;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
 }
 form div {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 label{
-    font-weight: bold;
     line-height: 23px;
     float: left;
+    color: blue;
+    font-size: 25px;
 }
 form input#name {
-    margin-left: 60px;
-    border-top-width: 2px;
-    border-left-width: 2px;
+    border: 5px;
+    border-top-style: solid;
+    border-left-style: solid;
+    width: 400px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 110px;
 }
 form input#dateofbirth {
-    margin-left: 58px;
-    border-top-width: 2px;
-    border-left-width: 2px;
+    border: 5px;
+    border-top-style: solid;
+    border-left-style: solid;
+    width: 200px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 106px;
 }
-form input#gender {
-    margin-left: 63px;
-    border-top-width: 2px;
-    border-left-width: 2px;
+form input#male {
+    margin-left: 130px;
+    font-size: 25px;
 }
 form textarea#address {
-    margin-left: 76px;
-    border-top-width: 2px;
-    border-left-width: 2px;
+    margin-left: 135px;
+    border: 5px;
+    border-top-style: solid;
+    border-left-style: solid;
+    width: 300px;
+    height: 80px;
+    font-size: 25px;
 }
 form select#class {
-    margin-left: 93px;
-    border-top-width: 2px;
-    border-left-width: 2px;
+    margin-left: 168px;
+    border: 5px;
+    border-top-style: solid;
+    border-left-style: solid;
+    width: 150x;
+    height: 35px;
+    font-size: 25px;
 }
 form input#email {
-    margin-left: 82px;
-    border-top-width: 2px;
-    border-left-width: 2px;
+    margin-left: 148px;
+    border: 5px;
+    border-top-style: solid;
+    border-left-style: solid;
+    width: 375px;
+    height: 35px;
+    font-size: 25px;
 }
 form input#phone {
-    margin-left: 54px;
-    border-top-width: 2px;
-    border-left-width: 2px;
+    margin-left: 103px;
+    border: 5px;
+    border-top-style: solid;
+    border-left-style: solid;
+    width: 255px;
+    height: 35px;
+    font-size: 25px;
 }
 form input#button {
-    margin-left: 120px;
-    border-top-width: 2px;
-    border-left-width: 2px;
+    margin-left: 215px;
+    border: 5px;
+    border-top-style: solid;
+    border-left-style: solid;
+    width: 120px;
+    height: 35px;
+    font-size: 25px;
 }
 form input#button2 {
-    border-top-width: 2px;
-    border-left-width: 2px;
+    margin-left: 15px;
+    border: 5px;
+    border-top-style: solid;
+    border-left-style: solid;
+    width: 120px;
+    height: 35px;
+    font-size: 25px;
 }
 #form {
-    width: 480px;
-    background-color: rgba(255, 255, 0, 0.281);
+    background-color: #ff9;
     margin: 40px 120px;
-    padding: 10px 40px 10px 40px;
+    width: 860px;
+    height: 600px;  
+    padding: 10px 50px 50px 50px;
 }
-h2 {
-    background-color: rgb(196, 247, 192);
-    padding: 3px 0px 3px 3px;
+h2{
+    background-color: #ccffff;
+    padding: 5px 0px 5px 5px;
+    color: blue;
 }
