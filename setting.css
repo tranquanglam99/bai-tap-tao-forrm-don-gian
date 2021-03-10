@@ -1,0 +1,93 @@
+body{
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.class1{
+    background-color: white;
+    border-top: 15px solid #9ff;
+    border-left: 30px solid #9ff;
+    border-right: 20px solid #9ff;
+    border-bottom: 20px solid #9ff;
+    margin: 40px 120px;
+    width: 860px;
+    height: 320px;
+    padding: 10px 50px 50px 50px
+}
+h2{
+    background-color: orange;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+form div {
+    margin-bottom: 20px;
+}
+label{
+    line-height: 23px;
+    float: left;
+    color: blue;
+    font-size: 25px;
+}
+.ten{
+    margin-left: 80px;
+}
+.mail{
+    margin-left: 125px;
+}
+.st{
+    margin-left: 91px;
+}
+form input#name {
+    border: 3px solid #888;
+    width: 350px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+form input#email {
+    border: 3px solid #888;
+    width: 300px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+form input#hobby1{
+    margin-left: 30px;
+}
+form input#hobby2{
+    margin-left: 50px;
+}
+form input#hobby3{
+    margin-left: 50px;
+}
+form input#hobby4{
+    margin-left: 131px;
+}
+form input#hobby5{
+    margin-left: 42px;
+}
+form input#hobby6{
+    margin-left:29px;
+}
+form input#hobby7{
+    margin-left: 131px;
+}
+form input#send {
+    margin-left: 214px;
+    border: 3px solid #888;
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+}
+form input#re-enter {
+    margin-left: 10px;
+    border: 3px solid #888;
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+}
+span{
+    color: orange;
+}
